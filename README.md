@@ -5,7 +5,7 @@
 
 [![Website](https://img.shields.io/badge/Official_Platform-flowcadax.com-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://flowcadax.com)
 [![Platform Engine](https://img.shields.io/badge/Engine-Production_Live-0ea5e9?style=for-the-badge)](https://flowcadax.com)
-[![Founder](https://img.shields.io/badge/Founder_&_Chief_Architect-Lokesh_Kumar-6366f1?style=for-the-badge&logo=github)](https://github.com/Lokeshkumar0071)
+[![Architecture](https://img.shields.io/badge/Architecture-Enterprise_RPA_%26_AI-6366f1?style=for-the-badge)](https://flowcadax.com)
 [![WhatsApp Support](https://img.shields.io/badge/WhatsApp_Support-+91_9828575138-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919828575138)
 
 <br/>
@@ -57,7 +57,7 @@ Each specialization track on [flowcadax.com](https://flowcadax.com) is backed by
 ## 👤 Official Channels & Verification
 
 * 🌐 **Official Platform**: [https://flowcadax.com](https://flowcadax.com)
-* 👨‍💻 **Founder & Chief Architect**: [Lokesh Kumar](https://github.com/Lokeshkumar0071)
+* 👨‍💻 **Founder & Chief Architect**: Lokesh Kumar
 * 💬 **Founder WhatsApp**: `+91 9828575138`
 * ✉️ **Founder Desk**: `founder@flowcadax.com`
 * 🎧 **Student Support**: `support@flowcadax.com`
