@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/flowcadax/flowcadax/main/assets/logo.png" width="100" height="100" alt="Flow Cadax" />
+
 # Flow Cadax — Enterprise Automation & AI
 ### Official Corporate Engineering & Architecture Hub
 
